@@ -9,6 +9,7 @@ for either the baseline tracking (wires_hourglass.dat) or the extended tracking 
 (triplet) seeding (wires_hourglassExtended.dat)
 
 wires_hourglass.dat 
+
 wires_hourglassExtended.dat 
 
 *** PROCESSING MODULES *** 
@@ -16,6 +17,7 @@ wires_hourglassExtended.dat
 These contain the detailed list of processing modules used for the baseline or extended tracking (e.g. VMRouter, TrackletEngine, TrackletCalculator, ...) 
 
 processingmodules_hourglass.dat
+
 processingmodules_hourglassExtended.dat
 
 *** MEMORY MODULES *** 
@@ -23,6 +25,7 @@ processingmodules_hourglassExtended.dat
 These similarly contain the detailed memory modules (e.g. InputLink, AllStubs, FullMatch, TrackletParameters, ...)
 
 memorymodules_hourglass.dat
+
 memorymodules_hourglassExtended.dat
 
 *** LUTs FOR EXTENDED TRACKING *** 
@@ -30,6 +33,7 @@ memorymodules_hourglassExtended.dat
 These contain LUTs needed for the extended tracking (that allows specifically reconstructing displaced trajectories). 
 
 table_TED/ => tracklet engine displaced
+
 table_TRE/ => triplet engine
 
 *** CHI2 FIT ***
@@ -43,6 +47,8 @@ fitpattern.txt
 This contains information about the modules and the links that they are associated with from the DTC.
 
 modules_T5v3_27SP_nonant_tracklet.dat
+
 calcNumDTCLinks.txt
+
 dtclinklayerdisk.dat
 
