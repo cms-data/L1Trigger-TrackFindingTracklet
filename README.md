@@ -30,11 +30,11 @@ memorymodules_hourglassExtended.dat
 
 *** LUTs FOR EXTENDED TRACKING *** 
 
-These contain LUTs needed for the extended tracking (that allows specifically reconstructing displaced trajectories). 
+These contain LUTs needed for the extended tracking (that allows specifically reconstructing displaced trajectories). Lines in files correspond to different indices, based on phi coordinate and bend of stubs (for the TrackletEngineDisplaced (table_TED) these are the two stubs considered as candidate stub pair, while for the Triplet Engine (table_TRE) it is one of the stubs from the initial stub pair plus third stub forming candidate triplet). These are created through training on muon gun samples. 
 
-table_TED/ => tracklet engine displaced
+table_TED/ => tables for TrackletEngineDisplaced.
 
-table_TRE/ => triplet engine
+table_TRE/ => tables for TripletEngine.
 
 *** CHI2 FIT ***
 
