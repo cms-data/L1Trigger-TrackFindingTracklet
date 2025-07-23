@@ -725,8 +725,6 @@
         "L1PHIA",
         "L1PHIB",
         "L1PHIC",
-        "L4PHIA",
-        "L4PHIB",
         "D2PHIA",
         "D2PHIB",
         "D3PHIA",
@@ -754,8 +752,6 @@
         "L1PHIA",
         "L1PHIB",
         "L1PHIC",
-        "L4PHIA",
-        "L4PHIB",
         "D2PHIB",
         "D3PHIB",
         "D4PHIB"
@@ -780,7 +776,6 @@
         "L1PHIA",
         "L1PHIB",
         "L1PHIC",
-        "L4PHIA",
         "D2PHIA",
         "D2PHIB",
         "D3PHIA",
@@ -811,9 +806,6 @@
         "L1PHIC",
         "L1PHID",
         "L1PHIE",
-        "L4PHIA",
-        "L4PHIB",
-        "L4PHIC",
         "D2PHIA",
         "D2PHIB",
         "D2PHIC",
@@ -844,8 +836,6 @@
         "L1PHIC",
         "L1PHID",
         "L1PHIE",
-        "L4PHIB",
-        "L4PHIC",
         "D2PHIC",
         "D3PHIC",
         "D4PHIC"
@@ -871,7 +861,6 @@
         "L1PHIC",
         "L1PHID",
         "L1PHIE",
-        "L4PHIB",
         "D2PHIB",
         "D2PHIC",
         "D3PHIB",
@@ -903,9 +892,6 @@
         "L1PHIE",
         "L1PHIF",
         "L1PHIG",
-        "L4PHIB",
-        "L4PHIC",
-        "L4PHID",
         "D2PHIB",
         "D2PHIC",
         "D2PHID",
@@ -936,7 +922,6 @@
         "L1PHIE",
         "L1PHIF",
         "L1PHIG",
-        "L4PHID",
         "D2PHID",
         "D3PHID",
         "D4PHID"
@@ -962,7 +947,6 @@
         "L1PHIE",
         "L1PHIF",
         "L1PHIG",
-        "L4PHIC",
         "D2PHIC",
         "D2PHID",
         "D3PHIC",
@@ -993,8 +977,6 @@
         "L1PHIF",
         "L1PHIG",
         "L1PHIH",
-        "L4PHIC",
-        "L4PHID",
         "D2PHIC",
         "D2PHID",
         "D3PHIC",
@@ -1022,14 +1004,10 @@
         "L1PHIA",
         "L1PHIB",
         "L1PHIC",
-        "L3PHIA",
-        "L3PHIB",
         "D3PHIA",
         "D3PHIB",
         "D4PHIA",
-        "D4PHIB",
-        "D5PHIA",
-        "D5PHIB"
+        "D4PHIB"
       ]
     },
     "B": {
@@ -1049,17 +1027,12 @@
         "L1PHIA",
         "L1PHIB",
         "L1PHIC",
-        "L3PHIA",
-        "L3PHIB",
         "D3PHIA",
         "D3PHIB",
         "D3PHIC",
         "D4PHIA",
         "D4PHIB",
-        "D4PHIC",
-        "D5PHIA",
-        "D5PHIB",
-        "D5PHIC"
+        "D4PHIC"
       ]
     },
     "C": {
@@ -1080,18 +1053,12 @@
         "L1PHIC",
         "L1PHID",
         "L1PHIE",
-        "L3PHIA",
-        "L3PHIB",
-        "L3PHIC",
         "D3PHIA",
         "D3PHIB",
         "D3PHIC",
         "D4PHIA",
         "D4PHIB",
-        "D4PHIC",
-        "D5PHIA",
-        "D5PHIB",
-        "D5PHIC"
+        "D4PHIC"
       ]
     },
     "D": {
@@ -1111,17 +1078,11 @@
         "L1PHIC",
         "L1PHID",
         "L1PHIE",
-        "L3PHIA",
-        "L3PHIB",
-        "L3PHIC",
         "D3PHIB",
         "D3PHIC",
         "D4PHIA",
         "D4PHIB",
         "D4PHIC",
-        "D5PHIA",
-        "D5PHIB",
-        "D5PHIC"
       ]
     },
     "E": {
@@ -1140,17 +1101,12 @@
       "projections": [
         "L1PHID",
         "L1PHIE",
-        "L3PHIB",
-        "L3PHIC",
         "D3PHIB",
         "D3PHIC",
         "D3PHID",
         "D4PHIB",
         "D4PHIC",
-        "D4PHID",
-        "D5PHIB",
-        "D5PHIC",
-        "D5PHID"
+        "D4PHID"
       ]
     },
     "F": {
@@ -1171,17 +1127,12 @@
         "L1PHIE",
         "L1PHIF",
         "L1PHIG",
-        "L3PHIC",
-        "L3PHID",
         "D3PHIB",
         "D3PHIC",
         "D3PHID",
         "D4PHIB",
         "D4PHIC",
-        "D4PHID",
-        "D5PHIB",
-        "D5PHIC",
-        "D5PHID"
+        "D4PHID"
       ]
     },
     "G": {
@@ -1201,17 +1152,11 @@
         "L1PHIE",
         "L1PHIF",
         "L1PHIG",
-        "L3PHIB",
-        "L3PHIC",
-        "L3PHID",
         "D3PHIB",
         "D3PHIC",
         "D3PHID",
         "D4PHIC",
-        "D4PHID",
-        "D5PHIB",
-        "D5PHIC",
-        "D5PHID"
+        "D4PHID"
       ]
     },
     "H": {
@@ -1230,14 +1175,10 @@
       "projections": [
         "L1PHIF",
         "L1PHIG",
-        "L3PHIC",
-        "L3PHID",
         "D3PHIC",
         "D3PHID",
         "D4PHIC",
-        "D4PHID",
-        "D5PHIC",
-        "D5PHID"
+        "D4PHID"
       ]
     },
     "I": {
@@ -1257,14 +1198,10 @@
         "L1PHIF",
         "L1PHIG",
         "L1PHIH",
-        "L3PHIC",
-        "L3PHID",
         "D3PHIC",
         "D3PHID",
         "D4PHIC",
-        "D4PHID",
-        "D5PHIC",
-        "D5PHID"
+        "D4PHID"
       ]
     },
     "J": {
@@ -1284,12 +1221,9 @@
         "L1PHIF",
         "L1PHIG",
         "L1PHIH",
-        "L3PHIC",
-        "L3PHID",
         "D3PHID",
         "D4PHIC",
-        "D4PHID",
-        "D5PHID"
+        "D4PHID"
       ]
     }
   }
